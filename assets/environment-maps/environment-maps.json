@@ -2,288 +2,288 @@
   {
     "id": "00e71ceb-8246-455c-894f-6a7f872f9496",
     "name": "environment10",
-    "hdr_url": "/assets/environment-maps/00e71ceb-8246-455c-894f-6a7f872f9496.env",
-    "thumbnail_url": "/assets/environment-maps/00e71ceb-8246-455c-894f-6a7f872f9496.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/00e71ceb-8246-455c-894f-6a7f872f9496.env",
+    "thumbnail_url": "./assets/environment-maps/00e71ceb-8246-455c-894f-6a7f872f9496.thumb.jpg",
     "file_size_bytes": 2032676,
     "is_public": true
   },
   {
     "id": "192ba371-85f8-4589-8c2f-2e70ac9fa1cc",
     "name": "environment2",
-    "hdr_url": "/assets/environment-maps/192ba371-85f8-4589-8c2f-2e70ac9fa1cc.env",
-    "thumbnail_url": "/assets/environment-maps/192ba371-85f8-4589-8c2f-2e70ac9fa1cc.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/192ba371-85f8-4589-8c2f-2e70ac9fa1cc.env",
+    "thumbnail_url": "./assets/environment-maps/192ba371-85f8-4589-8c2f-2e70ac9fa1cc.thumb.jpg",
     "file_size_bytes": 2331239,
     "is_public": true
   },
   {
     "id": "1cd2198d-bb85-4a95-b7a2-0dc81c2905cf",
     "name": "environment30",
-    "hdr_url": "/assets/environment-maps/1cd2198d-bb85-4a95-b7a2-0dc81c2905cf.env",
-    "thumbnail_url": "/assets/environment-maps/1cd2198d-bb85-4a95-b7a2-0dc81c2905cf.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/1cd2198d-bb85-4a95-b7a2-0dc81c2905cf.env",
+    "thumbnail_url": "./assets/environment-maps/1cd2198d-bb85-4a95-b7a2-0dc81c2905cf.thumb.jpg",
     "file_size_bytes": 1577640,
     "is_public": true
   },
   {
     "id": "207df269-a7d3-4d81-b0ba-f211febbb5c8",
     "name": "environment11",
-    "hdr_url": "/assets/environment-maps/207df269-a7d3-4d81-b0ba-f211febbb5c8.env",
-    "thumbnail_url": "/assets/environment-maps/207df269-a7d3-4d81-b0ba-f211febbb5c8.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/207df269-a7d3-4d81-b0ba-f211febbb5c8.env",
+    "thumbnail_url": "./assets/environment-maps/207df269-a7d3-4d81-b0ba-f211febbb5c8.thumb.jpg",
     "file_size_bytes": 805003,
     "is_public": true
   },
   {
     "id": "21d7cd4a-b412-433e-8341-3cd088a04b1a",
     "name": "environment25",
-    "hdr_url": "/assets/environment-maps/21d7cd4a-b412-433e-8341-3cd088a04b1a.env",
-    "thumbnail_url": "/assets/environment-maps/21d7cd4a-b412-433e-8341-3cd088a04b1a.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/21d7cd4a-b412-433e-8341-3cd088a04b1a.env",
+    "thumbnail_url": "./assets/environment-maps/21d7cd4a-b412-433e-8341-3cd088a04b1a.thumb.jpg",
     "file_size_bytes": 2724049,
     "is_public": true
   },
   {
     "id": "228bc5e0-7df4-4031-8f3c-b000dc3f7872",
     "name": "environment34",
-    "hdr_url": "/assets/environment-maps/228bc5e0-7df4-4031-8f3c-b000dc3f7872.env",
-    "thumbnail_url": "/assets/environment-maps/228bc5e0-7df4-4031-8f3c-b000dc3f7872.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/228bc5e0-7df4-4031-8f3c-b000dc3f7872.env",
+    "thumbnail_url": "./assets/environment-maps/228bc5e0-7df4-4031-8f3c-b000dc3f7872.thumb.jpg",
     "file_size_bytes": 1466601,
     "is_public": true
   },
   {
     "id": "2be4133c-26fb-4ecc-a365-e59c85cf9223",
     "name": "environment17",
-    "hdr_url": "/assets/environment-maps/2be4133c-26fb-4ecc-a365-e59c85cf9223.env",
-    "thumbnail_url": "/assets/environment-maps/2be4133c-26fb-4ecc-a365-e59c85cf9223.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/2be4133c-26fb-4ecc-a365-e59c85cf9223.env",
+    "thumbnail_url": "./assets/environment-maps/2be4133c-26fb-4ecc-a365-e59c85cf9223.thumb.jpg",
     "file_size_bytes": 1861120,
     "is_public": true
   },
   {
     "id": "2c467c7d-5811-495c-90c5-4bcca382dc87",
     "name": "environment29",
-    "hdr_url": "/assets/environment-maps/2c467c7d-5811-495c-90c5-4bcca382dc87.env",
-    "thumbnail_url": "/assets/environment-maps/2c467c7d-5811-495c-90c5-4bcca382dc87.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/2c467c7d-5811-495c-90c5-4bcca382dc87.env",
+    "thumbnail_url": "./assets/environment-maps/2c467c7d-5811-495c-90c5-4bcca382dc87.thumb.jpg",
     "file_size_bytes": 2044933,
     "is_public": true
   },
   {
     "id": "2e7ca5d5-2953-4f5b-a94c-cb9fda164f96",
     "name": "environment4",
-    "hdr_url": "/assets/environment-maps/2e7ca5d5-2953-4f5b-a94c-cb9fda164f96.env",
-    "thumbnail_url": "/assets/environment-maps/2e7ca5d5-2953-4f5b-a94c-cb9fda164f96.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/2e7ca5d5-2953-4f5b-a94c-cb9fda164f96.env",
+    "thumbnail_url": "./assets/environment-maps/2e7ca5d5-2953-4f5b-a94c-cb9fda164f96.thumb.jpg",
     "file_size_bytes": 2234158,
     "is_public": true
   },
   {
     "id": "37c089ad-8199-4253-a4f2-6501dca96277",
     "name": "environment3",
-    "hdr_url": "/assets/environment-maps/37c089ad-8199-4253-a4f2-6501dca96277.env",
-    "thumbnail_url": "/assets/environment-maps/37c089ad-8199-4253-a4f2-6501dca96277.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/37c089ad-8199-4253-a4f2-6501dca96277.env",
+    "thumbnail_url": "./assets/environment-maps/37c089ad-8199-4253-a4f2-6501dca96277.thumb.jpg",
     "file_size_bytes": 3408087,
     "is_public": true
   },
   {
     "id": "406ffb95-81da-4b52-af20-f201eeb6b235",
     "name": "environment20",
-    "hdr_url": "/assets/environment-maps/406ffb95-81da-4b52-af20-f201eeb6b235.env",
-    "thumbnail_url": "/assets/environment-maps/406ffb95-81da-4b52-af20-f201eeb6b235.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/406ffb95-81da-4b52-af20-f201eeb6b235.env",
+    "thumbnail_url": "./assets/environment-maps/406ffb95-81da-4b52-af20-f201eeb6b235.thumb.jpg",
     "file_size_bytes": 2207189,
     "is_public": true
   },
   {
     "id": "49b01554-5659-44ad-817c-1591058e5b22",
     "name": "environment1",
-    "hdr_url": "/assets/environment-maps/49b01554-5659-44ad-817c-1591058e5b22.env",
-    "thumbnail_url": "/assets/environment-maps/49b01554-5659-44ad-817c-1591058e5b22.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/49b01554-5659-44ad-817c-1591058e5b22.env",
+    "thumbnail_url": "./assets/environment-maps/49b01554-5659-44ad-817c-1591058e5b22.thumb.jpg",
     "file_size_bytes": 1922997,
     "is_public": true
   },
   {
     "id": "4a9f7b3e-a785-4783-be6d-1563632b8a14",
     "name": "environment12",
-    "hdr_url": "/assets/environment-maps/4a9f7b3e-a785-4783-be6d-1563632b8a14.env",
-    "thumbnail_url": "/assets/environment-maps/4a9f7b3e-a785-4783-be6d-1563632b8a14.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/4a9f7b3e-a785-4783-be6d-1563632b8a14.env",
+    "thumbnail_url": "./assets/environment-maps/4a9f7b3e-a785-4783-be6d-1563632b8a14.thumb.jpg",
     "file_size_bytes": 1727485,
     "is_public": true
   },
   {
     "id": "520a4c9c-0ce3-44ea-87b2-fa3fd24a18e4",
     "name": "environment13",
-    "hdr_url": "/assets/environment-maps/520a4c9c-0ce3-44ea-87b2-fa3fd24a18e4.env",
-    "thumbnail_url": "/assets/environment-maps/520a4c9c-0ce3-44ea-87b2-fa3fd24a18e4.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/520a4c9c-0ce3-44ea-87b2-fa3fd24a18e4.env",
+    "thumbnail_url": "./assets/environment-maps/520a4c9c-0ce3-44ea-87b2-fa3fd24a18e4.thumb.jpg",
     "file_size_bytes": 2639302,
     "is_public": true
   },
   {
     "id": "54d98778-1d09-4c14-a0ab-1746916aa7d4",
     "name": "environment22",
-    "hdr_url": "/assets/environment-maps/54d98778-1d09-4c14-a0ab-1746916aa7d4.env",
-    "thumbnail_url": "/assets/environment-maps/54d98778-1d09-4c14-a0ab-1746916aa7d4.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/54d98778-1d09-4c14-a0ab-1746916aa7d4.env",
+    "thumbnail_url": "./assets/environment-maps/54d98778-1d09-4c14-a0ab-1746916aa7d4.thumb.jpg",
     "file_size_bytes": 2780812,
     "is_public": true
   },
   {
     "id": "5c4ef278-35c6-4989-bf89-90167a78cbb2",
     "name": "environment27",
-    "hdr_url": "/assets/environment-maps/5c4ef278-35c6-4989-bf89-90167a78cbb2.env",
-    "thumbnail_url": "/assets/environment-maps/5c4ef278-35c6-4989-bf89-90167a78cbb2.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/5c4ef278-35c6-4989-bf89-90167a78cbb2.env",
+    "thumbnail_url": "./assets/environment-maps/5c4ef278-35c6-4989-bf89-90167a78cbb2.thumb.jpg",
     "file_size_bytes": 1931358,
     "is_public": true
   },
   {
     "id": "5ced1690-66e0-4832-bb2c-32a7434fa337",
     "name": "environment33",
-    "hdr_url": "/assets/environment-maps/5ced1690-66e0-4832-bb2c-32a7434fa337.env",
-    "thumbnail_url": "/assets/environment-maps/5ced1690-66e0-4832-bb2c-32a7434fa337.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/5ced1690-66e0-4832-bb2c-32a7434fa337.env",
+    "thumbnail_url": "./assets/environment-maps/5ced1690-66e0-4832-bb2c-32a7434fa337.thumb.jpg",
     "file_size_bytes": 904270,
     "is_public": true
   },
   {
     "id": "79aa5e21-fecb-4696-bc14-3e997dfb293c",
     "name": "environment6",
-    "hdr_url": "/assets/environment-maps/79aa5e21-fecb-4696-bc14-3e997dfb293c.env",
-    "thumbnail_url": "/assets/environment-maps/79aa5e21-fecb-4696-bc14-3e997dfb293c.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/79aa5e21-fecb-4696-bc14-3e997dfb293c.env",
+    "thumbnail_url": "./assets/environment-maps/79aa5e21-fecb-4696-bc14-3e997dfb293c.thumb.jpg",
     "file_size_bytes": 1076755,
     "is_public": true
   },
   {
     "id": "8580d1ea-b249-4421-9589-ff5daf346f3d",
     "name": "environment9",
-    "hdr_url": "/assets/environment-maps/8580d1ea-b249-4421-9589-ff5daf346f3d.env",
-    "thumbnail_url": "/assets/environment-maps/8580d1ea-b249-4421-9589-ff5daf346f3d.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/8580d1ea-b249-4421-9589-ff5daf346f3d.env",
+    "thumbnail_url": "./assets/environment-maps/8580d1ea-b249-4421-9589-ff5daf346f3d.thumb.jpg",
     "file_size_bytes": 848299,
     "is_public": true
   },
   {
     "id": "8655eb5a-9fc8-4b91-a53a-ccd479bb2c3a",
     "name": "environment",
-    "hdr_url": "/assets/environment-maps/8655eb5a-9fc8-4b91-a53a-ccd479bb2c3a.env",
-    "thumbnail_url": "/assets/environment-maps/8655eb5a-9fc8-4b91-a53a-ccd479bb2c3a.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/8655eb5a-9fc8-4b91-a53a-ccd479bb2c3a.env",
+    "thumbnail_url": "./assets/environment-maps/8655eb5a-9fc8-4b91-a53a-ccd479bb2c3a.thumb.jpg",
     "file_size_bytes": 1078870,
     "is_public": true
   },
   {
     "id": "8f80e4e0-1b97-4a58-ba92-ff439867fd60",
     "name": "environment21",
-    "hdr_url": "/assets/environment-maps/8f80e4e0-1b97-4a58-ba92-ff439867fd60.env",
-    "thumbnail_url": "/assets/environment-maps/8f80e4e0-1b97-4a58-ba92-ff439867fd60.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/8f80e4e0-1b97-4a58-ba92-ff439867fd60.env",
+    "thumbnail_url": "./assets/environment-maps/8f80e4e0-1b97-4a58-ba92-ff439867fd60.thumb.jpg",
     "file_size_bytes": 2456723,
     "is_public": true
   },
   {
     "id": "91cdf808-7b3d-42d9-a010-99cbea5c74a6",
     "name": "environment16",
-    "hdr_url": "/assets/environment-maps/91cdf808-7b3d-42d9-a010-99cbea5c74a6.env",
-    "thumbnail_url": "/assets/environment-maps/91cdf808-7b3d-42d9-a010-99cbea5c74a6.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/91cdf808-7b3d-42d9-a010-99cbea5c74a6.env",
+    "thumbnail_url": "./assets/environment-maps/91cdf808-7b3d-42d9-a010-99cbea5c74a6.thumb.jpg",
     "file_size_bytes": 1828185,
     "is_public": true
   },
   {
     "id": "988bfec7-0315-4630-9359-27c0d9e1166c",
     "name": "environment28",
-    "hdr_url": "/assets/environment-maps/988bfec7-0315-4630-9359-27c0d9e1166c.env",
-    "thumbnail_url": "/assets/environment-maps/988bfec7-0315-4630-9359-27c0d9e1166c.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/988bfec7-0315-4630-9359-27c0d9e1166c.env",
+    "thumbnail_url": "./assets/environment-maps/988bfec7-0315-4630-9359-27c0d9e1166c.thumb.jpg",
     "file_size_bytes": 1710366,
     "is_public": true
   },
   {
     "id": "9b02b4a6-5241-4036-8b0f-1552245b8198",
     "name": "environment19",
-    "hdr_url": "/assets/environment-maps/9b02b4a6-5241-4036-8b0f-1552245b8198.env",
-    "thumbnail_url": "/assets/environment-maps/9b02b4a6-5241-4036-8b0f-1552245b8198.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/9b02b4a6-5241-4036-8b0f-1552245b8198.env",
+    "thumbnail_url": "./assets/environment-maps/9b02b4a6-5241-4036-8b0f-1552245b8198.thumb.jpg",
     "file_size_bytes": 2042640,
     "is_public": true
   },
   {
     "id": "9be6ab7b-2270-4665-a0b2-bca921633dfe",
     "name": "environment10b",
-    "hdr_url": "/assets/environment-maps/9be6ab7b-2270-4665-a0b2-bca921633dfe.env",
-    "thumbnail_url": "/assets/environment-maps/9be6ab7b-2270-4665-a0b2-bca921633dfe.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/9be6ab7b-2270-4665-a0b2-bca921633dfe.env",
+    "thumbnail_url": "./assets/environment-maps/9be6ab7b-2270-4665-a0b2-bca921633dfe.thumb.jpg",
     "file_size_bytes": 2032676,
     "is_public": true
   },
   {
     "id": "9e0b0e63-7213-4451-828b-852b98aa07bc",
     "name": "environment31",
-    "hdr_url": "/assets/environment-maps/9e0b0e63-7213-4451-828b-852b98aa07bc.env",
-    "thumbnail_url": "/assets/environment-maps/9e0b0e63-7213-4451-828b-852b98aa07bc.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/9e0b0e63-7213-4451-828b-852b98aa07bc.env",
+    "thumbnail_url": "./assets/environment-maps/9e0b0e63-7213-4451-828b-852b98aa07bc.thumb.jpg",
     "file_size_bytes": 2245213,
     "is_public": true
   },
   {
     "id": "a1107328-30b0-4938-b862-a74ca304730d",
     "name": "environment26",
-    "hdr_url": "/assets/environment-maps/a1107328-30b0-4938-b862-a74ca304730d.env",
-    "thumbnail_url": "/assets/environment-maps/a1107328-30b0-4938-b862-a74ca304730d.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/a1107328-30b0-4938-b862-a74ca304730d.env",
+    "thumbnail_url": "./assets/environment-maps/a1107328-30b0-4938-b862-a74ca304730d.thumb.jpg",
     "file_size_bytes": 1742178,
     "is_public": true
   },
   {
     "id": "a2768795-8d5c-4ae4-9569-e240fcaeb58c",
     "name": "environment15",
-    "hdr_url": "/assets/environment-maps/a2768795-8d5c-4ae4-9569-e240fcaeb58c.env",
-    "thumbnail_url": "/assets/environment-maps/a2768795-8d5c-4ae4-9569-e240fcaeb58c.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/a2768795-8d5c-4ae4-9569-e240fcaeb58c.env",
+    "thumbnail_url": "./assets/environment-maps/a2768795-8d5c-4ae4-9569-e240fcaeb58c.thumb.jpg",
     "file_size_bytes": 2426206,
     "is_public": true
   },
   {
     "id": "a8e77e02-fa5c-4a5c-95a0-a46eedfac071",
     "name": "environment32",
-    "hdr_url": "/assets/environment-maps/a8e77e02-fa5c-4a5c-95a0-a46eedfac071.env",
-    "thumbnail_url": "/assets/environment-maps/a8e77e02-fa5c-4a5c-95a0-a46eedfac071.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/a8e77e02-fa5c-4a5c-95a0-a46eedfac071.env",
+    "thumbnail_url": "./assets/environment-maps/a8e77e02-fa5c-4a5c-95a0-a46eedfac071.thumb.jpg",
     "file_size_bytes": 1616421,
     "is_public": true
   },
   {
     "id": "ae428492-16dc-40dd-a52f-b470b853b507",
     "name": "3d66Model-18121221-files-007",
-    "hdr_url": "/assets/environment-maps/ae428492-16dc-40dd-a52f-b470b853b507.env",
-    "thumbnail_url": "/assets/environment-maps/ae428492-16dc-40dd-a52f-b470b853b507.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/ae428492-16dc-40dd-a52f-b470b853b507.env",
+    "thumbnail_url": "./assets/environment-maps/ae428492-16dc-40dd-a52f-b470b853b507.thumb.jpg",
     "file_size_bytes": 21220183,
     "is_public": true
   },
   {
     "id": "af53734a-31f4-4739-a10a-9aa16372a0cb",
     "name": "environment8",
-    "hdr_url": "/assets/environment-maps/af53734a-31f4-4739-a10a-9aa16372a0cb.env",
-    "thumbnail_url": "/assets/environment-maps/af53734a-31f4-4739-a10a-9aa16372a0cb.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/af53734a-31f4-4739-a10a-9aa16372a0cb.env",
+    "thumbnail_url": "./assets/environment-maps/af53734a-31f4-4739-a10a-9aa16372a0cb.thumb.jpg",
     "file_size_bytes": 740701,
     "is_public": true
   },
   {
     "id": "b54c7d6a-ee24-48b0-a1a1-f9ed413db71f",
     "name": "environment14",
-    "hdr_url": "/assets/environment-maps/b54c7d6a-ee24-48b0-a1a1-f9ed413db71f.env",
-    "thumbnail_url": "/assets/environment-maps/b54c7d6a-ee24-48b0-a1a1-f9ed413db71f.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/b54c7d6a-ee24-48b0-a1a1-f9ed413db71f.env",
+    "thumbnail_url": "./assets/environment-maps/b54c7d6a-ee24-48b0-a1a1-f9ed413db71f.thumb.jpg",
     "file_size_bytes": 2044623,
     "is_public": true
   },
   {
     "id": "c5673262-6fb7-4712-a4d8-feb15708f3f2",
     "name": "environment24",
-    "hdr_url": "/assets/environment-maps/c5673262-6fb7-4712-a4d8-feb15708f3f2.env",
-    "thumbnail_url": "/assets/environment-maps/c5673262-6fb7-4712-a4d8-feb15708f3f2.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/c5673262-6fb7-4712-a4d8-feb15708f3f2.env",
+    "thumbnail_url": "./assets/environment-maps/c5673262-6fb7-4712-a4d8-feb15708f3f2.thumb.jpg",
     "file_size_bytes": 1830310,
     "is_public": true
   },
   {
     "id": "f5bd4cc0-a288-4802-9132-5127f292f788",
     "name": "environment5",
-    "hdr_url": "/assets/environment-maps/f5bd4cc0-a288-4802-9132-5127f292f788.env",
-    "thumbnail_url": "/assets/environment-maps/f5bd4cc0-a288-4802-9132-5127f292f788.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/f5bd4cc0-a288-4802-9132-5127f292f788.env",
+    "thumbnail_url": "./assets/environment-maps/f5bd4cc0-a288-4802-9132-5127f292f788.thumb.jpg",
     "file_size_bytes": 848292,
     "is_public": true
   },
   {
     "id": "f7282d5d-f98e-4add-9a17-035169d14f1a",
     "name": "environment23",
-    "hdr_url": "/assets/environment-maps/f7282d5d-f98e-4add-9a17-035169d14f1a.env",
-    "thumbnail_url": "/assets/environment-maps/f7282d5d-f98e-4add-9a17-035169d14f1a.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/f7282d5d-f98e-4add-9a17-035169d14f1a.env",
+    "thumbnail_url": "./assets/environment-maps/f7282d5d-f98e-4add-9a17-035169d14f1a.thumb.jpg",
     "file_size_bytes": 1733362,
     "is_public": true
   },
   {
     "id": "ff7d9bda-a2d2-4b8b-b78e-e3da86ff0153",
     "name": "environment7",
-    "hdr_url": "/assets/environment-maps/ff7d9bda-a2d2-4b8b-b78e-e3da86ff0153.env",
-    "thumbnail_url": "/assets/environment-maps/ff7d9bda-a2d2-4b8b-b78e-e3da86ff0153.thumb.jpg",
+    "hdr_url": "./assets/environment-maps/ff7d9bda-a2d2-4b8b-b78e-e3da86ff0153.env",
+    "thumbnail_url": "./assets/environment-maps/ff7d9bda-a2d2-4b8b-b78e-e3da86ff0153.thumb.jpg",
     "file_size_bytes": 969566,
     "is_public": true
   }

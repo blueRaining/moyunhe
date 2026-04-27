@@ -4,7 +4,7 @@
     "module": "packaging",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/eb458724-b415-45c5-98c5-05075a6cde7d.png",
+    "output_url": "./assets/ai-generations/eb458724-b415-45c5-98c5-05075a6cde7d.png",
     "status": "completed",
     "created_at": 1775481205,
     "completed_at": 1775481211
@@ -14,7 +14,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/294fd4c5-51a1-48ae-b176-1e64121f0f8b.jpg",
+    "output_url": "./assets/ai-generations/294fd4c5-51a1-48ae-b176-1e64121f0f8b.jpg",
     "status": "completed",
     "created_at": 1775798662,
     "completed_at": null
@@ -24,7 +24,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/a5861f08-f10d-4a9d-b835-c45ce8cac2a2.jpg",
+    "output_url": "./assets/ai-generations/a5861f08-f10d-4a9d-b835-c45ce8cac2a2.jpg",
     "status": "completed",
     "created_at": 1775662617,
     "completed_at": null
@@ -34,7 +34,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/c35c96b8-7fbc-475a-8958-8659b2665132.jpg",
+    "output_url": "./assets/ai-generations/c35c96b8-7fbc-475a-8958-8659b2665132.jpg",
     "status": "completed",
     "created_at": 1775662468,
     "completed_at": null
@@ -44,7 +44,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/fd436e4b-064f-424f-a1db-5213d4c19f74.jpg",
+    "output_url": "./assets/ai-generations/fd436e4b-064f-424f-a1db-5213d4c19f74.jpg",
     "status": "completed",
     "created_at": 1775655592,
     "completed_at": null
@@ -54,7 +54,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/44d59563-1e0f-4656-b6a9-4dd7e4f204c4.jpg",
+    "output_url": "./assets/ai-generations/44d59563-1e0f-4656-b6a9-4dd7e4f204c4.jpg",
     "status": "completed",
     "created_at": 1775536387,
     "completed_at": null
@@ -64,7 +64,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/072bc8d8-6f61-48e1-bbc3-3a75e1ff7f21.jpg",
+    "output_url": "./assets/ai-generations/072bc8d8-6f61-48e1-bbc3-3a75e1ff7f21.jpg",
     "status": "completed",
     "created_at": 1775529435,
     "completed_at": null
@@ -74,7 +74,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/ac53e778-294d-452f-8b1f-01a82ef7a7f8.jpg",
+    "output_url": "./assets/ai-generations/ac53e778-294d-452f-8b1f-01a82ef7a7f8.jpg",
     "status": "completed",
     "created_at": 1775526008,
     "completed_at": null
@@ -84,7 +84,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/dc8d9f0c-5d5d-46e3-ba2b-97e3781b0921.jpg",
+    "output_url": "./assets/ai-generations/dc8d9f0c-5d5d-46e3-ba2b-97e3781b0921.jpg",
     "status": "completed",
     "created_at": 1775488497,
     "completed_at": null
@@ -94,7 +94,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/c886d1ee-f41a-4db1-9db7-d2efac07e53a.jpg",
+    "output_url": "./assets/ai-generations/c886d1ee-f41a-4db1-9db7-d2efac07e53a.jpg",
     "status": "completed",
     "created_at": 1775485228,
     "completed_at": null
@@ -104,7 +104,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/76e760af-2566-4a5d-90e4-ca59b4ddb60d.jpg",
+    "output_url": "./assets/ai-generations/76e760af-2566-4a5d-90e4-ca59b4ddb60d.jpg",
     "status": "completed",
     "created_at": 1775484923,
     "completed_at": null
@@ -114,7 +114,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/e6ed831c-ab26-48cf-bf60-9df469125452.jpg",
+    "output_url": "./assets/ai-generations/e6ed831c-ab26-48cf-bf60-9df469125452.jpg",
     "status": "completed",
     "created_at": 1775484366,
     "completed_at": null
@@ -124,7 +124,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/5627585d-9b8b-4e4e-bd78-0cfbe53b9406.jpg",
+    "output_url": "./assets/ai-generations/5627585d-9b8b-4e4e-bd78-0cfbe53b9406.jpg",
     "status": "completed",
     "created_at": 1775403320,
     "completed_at": null
@@ -134,7 +134,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/ac7f7084-7c28-4a25-a905-a78c8ef45e3d.jpg",
+    "output_url": "./assets/ai-generations/ac7f7084-7c28-4a25-a905-a78c8ef45e3d.jpg",
     "status": "completed",
     "created_at": 1775402173,
     "completed_at": null
@@ -144,7 +144,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/267dd4a6-888c-4436-87aa-dad52ae50a9e.jpg",
+    "output_url": "./assets/ai-generations/267dd4a6-888c-4436-87aa-dad52ae50a9e.jpg",
     "status": "completed",
     "created_at": 1775364416,
     "completed_at": null
@@ -154,7 +154,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/7bafe3ee-78d3-4930-ac2d-e14734e2c829.jpg",
+    "output_url": "./assets/ai-generations/7bafe3ee-78d3-4930-ac2d-e14734e2c829.jpg",
     "status": "completed",
     "created_at": 1775319107,
     "completed_at": null
@@ -164,7 +164,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/608e12dc-baac-4f81-b037-f9a461127b9e.jpg",
+    "output_url": "./assets/ai-generations/608e12dc-baac-4f81-b037-f9a461127b9e.jpg",
     "status": "completed",
     "created_at": 1775318947,
     "completed_at": null
@@ -174,7 +174,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/bd1c9df5-33ea-45a9-8d9c-d629b91619cd.jpg",
+    "output_url": "./assets/ai-generations/bd1c9df5-33ea-45a9-8d9c-d629b91619cd.jpg",
     "status": "completed",
     "created_at": 1775318857,
     "completed_at": null
@@ -184,7 +184,7 @@
     "module": "background",
     "type": "image",
     "prompt": null,
-    "output_url": "/assets/ai-generations/59d8cde1-0312-4e29-b055-425d92abe413.jpg",
+    "output_url": "./assets/ai-generations/59d8cde1-0312-4e29-b055-425d92abe413.jpg",
     "status": "completed",
     "created_at": 1775305151,
     "completed_at": null
@@ -194,7 +194,7 @@
     "module": "background",
     "type": "image",
     "prompt": "给当前抱枕设计一个背景，室内，沙发,可爱风格",
-    "output_url": "/assets/ai-generations/1be24672-137e-4000-b47b-6830e148866f.jpg",
+    "output_url": "./assets/ai-generations/1be24672-137e-4000-b47b-6830e148866f.jpg",
     "status": "completed",
     "created_at": 1775233711,
     "completed_at": 1775233760
@@ -204,7 +204,7 @@
     "module": "background",
     "type": "image",
     "prompt": "给当前抱枕设计一个背景，室内，沙发",
-    "output_url": "/assets/ai-generations/4d0c120a-6dc2-4cb3-a642-9bb0929ba0f1.jpg",
+    "output_url": "./assets/ai-generations/4d0c120a-6dc2-4cb3-a642-9bb0929ba0f1.jpg",
     "status": "completed",
     "created_at": 1775233637,
     "completed_at": 1775233686
@@ -214,7 +214,7 @@
     "module": "background",
     "type": "image",
     "prompt": "给当前抱枕设计一个背景，室内，沙发",
-    "output_url": "/assets/ai-generations/6210defe-3330-4111-8dfa-fe2b08f172c5.jpg",
+    "output_url": "./assets/ai-generations/6210defe-3330-4111-8dfa-fe2b08f172c5.jpg",
     "status": "completed",
     "created_at": 1775233266,
     "completed_at": 1775233394
@@ -224,7 +224,7 @@
     "module": "background",
     "type": "image",
     "prompt": "给当前抱枕设计一个背景，室内，沙发",
-    "output_url": "/assets/ai-generations/01459ba1-0332-4cb8-b90a-0ecfae49aa05.jpg",
+    "output_url": "./assets/ai-generations/01459ba1-0332-4cb8-b90a-0ecfae49aa05.jpg",
     "status": "completed",
     "created_at": 1775231142,
     "completed_at": 1775231203
@@ -234,7 +234,7 @@
     "module": "background",
     "type": "image",
     "prompt": "电商帽子展示",
-    "output_url": "/assets/ai-generations/3d961333-8cda-43dd-8c52-e851a1893af2.jpg",
+    "output_url": "./assets/ai-generations/3d961333-8cda-43dd-8c52-e851a1893af2.jpg",
     "status": "completed",
     "created_at": 1775205844,
     "completed_at": 1775205899
@@ -244,7 +244,7 @@
     "module": "background",
     "type": "image",
     "prompt": "电商帽子展示",
-    "output_url": "/assets/ai-generations/40ab9130-43e8-4e81-aea9-dccef8858f1e.jpg",
+    "output_url": "./assets/ai-generations/40ab9130-43e8-4e81-aea9-dccef8858f1e.jpg",
     "status": "completed",
     "created_at": 1775063171,
     "completed_at": 1775063269
@@ -254,7 +254,7 @@
     "module": "background",
     "type": "image",
     "prompt": "T恤展示背景，电商",
-    "output_url": "/assets/ai-generations/3da35808-4fac-46bd-a79a-9ff799055dcc.jpg",
+    "output_url": "./assets/ai-generations/3da35808-4fac-46bd-a79a-9ff799055dcc.jpg",
     "status": "completed",
     "created_at": 1775053805,
     "completed_at": 1775053855
@@ -264,7 +264,7 @@
     "module": "background",
     "type": "image",
     "prompt": "夜晚，室内，桌面，书籍",
-    "output_url": "/assets/ai-generations/78cddd09-5de1-40eb-a8a6-418cb4e759c1.jpg",
+    "output_url": "./assets/ai-generations/78cddd09-5de1-40eb-a8a6-418cb4e759c1.jpg",
     "status": "completed",
     "created_at": 1774979828,
     "completed_at": 1774979879
@@ -274,7 +274,7 @@
     "module": "background",
     "type": "image",
     "prompt": "火影忍者",
-    "output_url": "/assets/ai-generations/b57ac643-5a02-42f2-a8ef-5989aef39ff9.jpg",
+    "output_url": "./assets/ai-generations/b57ac643-5a02-42f2-a8ef-5989aef39ff9.jpg",
     "status": "completed",
     "created_at": 1774279309,
     "completed_at": 1774279364
@@ -284,7 +284,7 @@
     "module": "background",
     "type": "image",
     "prompt": "鬼灭之刃",
-    "output_url": "/assets/ai-generations/5773c13f-8e63-489f-a591-c299200d249a.jpg",
+    "output_url": "./assets/ai-generations/5773c13f-8e63-489f-a591-c299200d249a.jpg",
     "status": "completed",
     "created_at": 1774191654,
     "completed_at": 1774191701
@@ -294,7 +294,7 @@
     "module": "background",
     "type": "image",
     "prompt": "暖色调",
-    "output_url": "/assets/ai-generations/d8288105-d69a-4abb-9c53-021a6f4d13a1.jpg",
+    "output_url": "./assets/ai-generations/d8288105-d69a-4abb-9c53-021a6f4d13a1.jpg",
     "status": "completed",
     "created_at": 1774191203,
     "completed_at": 1774191260
@@ -304,7 +304,7 @@
     "module": "background",
     "type": "image",
     "prompt": "科幻",
-    "output_url": "/assets/ai-generations/fd91bb16-0cbd-4fd7-9e2d-68b86db466b5.jpg",
+    "output_url": "./assets/ai-generations/fd91bb16-0cbd-4fd7-9e2d-68b86db466b5.jpg",
     "status": "completed",
     "created_at": 1774083723,
     "completed_at": 1774083775
@@ -314,7 +314,7 @@
     "module": "background",
     "type": "image",
     "prompt": "户外",
-    "output_url": "/assets/ai-generations/4b161923-c9cf-4b1f-aa62-819a445f7cd1.jpg",
+    "output_url": "./assets/ai-generations/4b161923-c9cf-4b1f-aa62-819a445f7cd1.jpg",
     "status": "completed",
     "created_at": 1774083279,
     "completed_at": 1774083339
@@ -324,7 +324,7 @@
     "module": "background",
     "type": "image",
     "prompt": "帮我给当前士兵生成一个未来战争背景，战火纷飞，夕阳西下",
-    "output_url": "/assets/ai-generations/d05f155c-3835-43dd-8cac-53322632b821.jpg",
+    "output_url": "./assets/ai-generations/d05f155c-3835-43dd-8cac-53322632b821.jpg",
     "status": "completed",
     "created_at": 1773907954,
     "completed_at": 1773908145
@@ -334,7 +334,7 @@
     "module": "background",
     "type": "image",
     "prompt": "帮我给当前士兵生成一个未来战争背景",
-    "output_url": "/assets/ai-generations/143401a8-d6e4-4231-aa3c-0fe215f8c82b.jpg",
+    "output_url": "./assets/ai-generations/143401a8-d6e4-4231-aa3c-0fe215f8c82b.jpg",
     "status": "completed",
     "created_at": 1773899855,
     "completed_at": 1773899903
@@ -344,7 +344,7 @@
     "module": "background",
     "type": "image",
     "prompt": "户外",
-    "output_url": "/assets/ai-generations/d4ed2e34-5abe-4f00-a6f0-0203b14f9cb0.jpg",
+    "output_url": "./assets/ai-generations/d4ed2e34-5abe-4f00-a6f0-0203b14f9cb0.jpg",
     "status": "completed",
     "created_at": 1773680395,
     "completed_at": 1773680437
@@ -354,7 +354,7 @@
     "module": "background",
     "type": "image",
     "prompt": "极简",
-    "output_url": "/assets/ai-generations/43b8915f-833d-4b8b-939d-0ebb8be760fc.jpg",
+    "output_url": "./assets/ai-generations/43b8915f-833d-4b8b-939d-0ebb8be760fc.jpg",
     "status": "completed",
     "created_at": 1773679532,
     "completed_at": 1773679588
@@ -364,7 +364,7 @@
     "module": "background",
     "type": "image",
     "prompt": "博物馆，玻璃台，, 奢华",
-    "output_url": "/assets/ai-generations/24be2c97-49ca-4771-b23a-bc712704e648.jpg",
+    "output_url": "./assets/ai-generations/24be2c97-49ca-4771-b23a-bc712704e648.jpg",
     "status": "completed",
     "created_at": 1773677675,
     "completed_at": 1773677721
@@ -374,7 +374,7 @@
     "module": "background",
     "type": "image",
     "prompt": "赛博朋克",
-    "output_url": "/assets/ai-generations/54178607-c2d3-4941-aaf2-9d0934d9caa0.jpg",
+    "output_url": "./assets/ai-generations/54178607-c2d3-4941-aaf2-9d0934d9caa0.jpg",
     "status": "completed",
     "created_at": 1773675537,
     "completed_at": 1773675634
@@ -384,7 +384,7 @@
     "module": "background",
     "type": "image",
     "prompt": "海贼王大战",
-    "output_url": "/assets/ai-generations/eb091fb5-9af8-4750-8f2a-524296cfb2e1.jpg",
+    "output_url": "./assets/ai-generations/eb091fb5-9af8-4750-8f2a-524296cfb2e1.jpg",
     "status": "completed",
     "created_at": 1773171395,
     "completed_at": 1773171441
@@ -394,7 +394,7 @@
     "module": "background",
     "type": "image",
     "prompt": "海贼王大战",
-    "output_url": "/assets/ai-generations/76a52b43-76c4-4ebd-ad3b-54c9d3a6f201.jpg",
+    "output_url": "./assets/ai-generations/76a52b43-76c4-4ebd-ad3b-54c9d3a6f201.jpg",
     "status": "completed",
     "created_at": 1773171194,
     "completed_at": 1773171253
@@ -404,7 +404,7 @@
     "module": "background",
     "type": "image",
     "prompt": "海贼王",
-    "output_url": "/assets/ai-generations/cd1bcb26-26b1-4bb9-a29a-622df5055603.jpg",
+    "output_url": "./assets/ai-generations/cd1bcb26-26b1-4bb9-a29a-622df5055603.jpg",
     "status": "completed",
     "created_at": 1773169004,
     "completed_at": 1773169052
