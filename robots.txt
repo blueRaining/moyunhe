@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /editor.html
+Disallow: /preview.html
+
+# 百度蜘蛛
+User-agent: Baiduspider
+Allow: /
+Disallow: /editor.html
+Disallow: /preview.html
+
+Sitemap: https://moyunhe.com/sitemap.xml
