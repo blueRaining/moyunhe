@@ -1,0 +1,14 @@
+{
+  "id": "8d8bf457-2898-42f7-81b1-79ca00d944e8",
+  "name": "DIY_20260410",
+  "description": "",
+  "category_id": "c988e280-996f-4a42-9ab9-a51d02da2f62",
+  "category_name": "塑料牌",
+  "parent_category_id": "0b988569-92cd-4399-9b44-03a7a8d5bb9f",
+  "parent_category_name": "DIY",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpeg"
+}

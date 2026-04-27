@@ -1,0 +1,14 @@
+{
+  "id": "1cd09609-cf89-4e78-9818-2af33fc09410",
+  "name": "亚克力_柯南",
+  "description": "",
+  "category_id": "17b7c51b-5a7c-4686-bca3-f4f3396c7751",
+  "category_name": "亚克力钥匙扣",
+  "parent_category_id": "7fb05a13-55b3-42ef-9c7b-67b0e5fe0f3b",
+  "parent_category_name": "亚克力",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpeg"
+}

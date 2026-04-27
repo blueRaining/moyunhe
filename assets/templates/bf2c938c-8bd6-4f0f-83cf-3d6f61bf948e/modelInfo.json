@@ -1,0 +1,14 @@
+{
+  "id": "bf2c938c-8bd6-4f0f-83cf-3d6f61bf948e",
+  "name": "伞",
+  "description": "",
+  "category_id": "2426dab1-84a6-4f2e-b82a-9fbd115afa0d",
+  "category_name": "伞",
+  "parent_category_id": "0b988569-92cd-4399-9b44-03a7a8d5bb9f",
+  "parent_category_name": "DIY",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpeg"
+}

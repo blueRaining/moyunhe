@@ -1,0 +1,14 @@
+{
+  "id": "4d33a0ca-bf82-4ade-ba4f-89f0d09982b0",
+  "name": "手机壳",
+  "description": "",
+  "category_id": "4c76b6d1-69aa-42a2-b3e7-fe8297890439",
+  "category_name": "手机壳",
+  "parent_category_id": "0b988569-92cd-4399-9b44-03a7a8d5bb9f",
+  "parent_category_name": "DIY",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

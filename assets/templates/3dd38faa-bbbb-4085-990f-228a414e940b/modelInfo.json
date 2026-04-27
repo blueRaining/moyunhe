@@ -1,0 +1,14 @@
+{
+  "id": "3dd38faa-bbbb-4085-990f-228a414e940b",
+  "name": "T恤",
+  "description": "",
+  "category_id": "04a4b4f9-2e98-40f7-8393-cc282485846d",
+  "category_name": "T恤",
+  "parent_category_id": "a21089aa-ac25-4e17-a9be-50102d942ed0",
+  "parent_category_name": "服装",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

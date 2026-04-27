@@ -1,0 +1,14 @@
+{
+  "id": "79de80c5-520e-44f1-810d-9816c83b95be",
+  "name": "抱枕",
+  "description": "",
+  "category_id": "153deaee-16da-4536-ae1e-89a1dd6d70c8",
+  "category_name": "抱枕",
+  "parent_category_id": "0b988569-92cd-4399-9b44-03a7a8d5bb9f",
+  "parent_category_name": "DIY",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

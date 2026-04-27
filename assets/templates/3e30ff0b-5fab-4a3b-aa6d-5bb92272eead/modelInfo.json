@@ -1,0 +1,14 @@
+{
+  "id": "3e30ff0b-5fab-4a3b-aa6d-5bb92272eead",
+  "name": "扇子",
+  "description": "",
+  "category_id": "b68b3c5b-89ec-4328-8f24-d828daba7a24",
+  "category_name": "扇子",
+  "parent_category_id": "0b988569-92cd-4399-9b44-03a7a8d5bb9f",
+  "parent_category_name": "DIY",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpeg"
+}

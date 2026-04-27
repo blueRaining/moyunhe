@@ -1,0 +1,14 @@
+{
+  "id": "326398e8-3b46-4d43-a1ed-e2bee8bd9930",
+  "name": "棒球帽",
+  "description": "",
+  "category_id": "ac239a91-9a75-4641-aee6-82089b072335",
+  "category_name": "帽子",
+  "parent_category_id": "a21089aa-ac25-4e17-a9be-50102d942ed0",
+  "parent_category_name": "服装",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

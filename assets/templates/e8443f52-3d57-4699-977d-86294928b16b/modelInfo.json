@@ -1,0 +1,14 @@
+{
+  "id": "e8443f52-3d57-4699-977d-86294928b16b",
+  "name": "徽章",
+  "description": "",
+  "category_id": "fd2540c6-525d-4fe9-b316-6d9258557e5d",
+  "category_name": "徽章",
+  "parent_category_id": "0b988569-92cd-4399-9b44-03a7a8d5bb9f",
+  "parent_category_name": "DIY",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

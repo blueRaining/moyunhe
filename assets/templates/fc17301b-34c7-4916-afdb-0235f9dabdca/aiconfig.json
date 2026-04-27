@@ -1,0 +1,74 @@
+{
+  "config": {
+    "windowSize": {
+      "w": 1024,
+      "h": 858
+    },
+    "canvasBoxSize": {
+      "w": 1024,
+      "h": 801
+    },
+    "aspectHint": {
+      "w": 1024,
+      "h": 801
+    },
+    "zoom": 0.7,
+    "pan": {
+      "tx": 106.95000000000002,
+      "ty": 83.55000000000001
+    },
+    "layers": [
+      {
+        "id": "__albedo_default__",
+        "w": 1024,
+        "h": 801,
+        "locked": false,
+        "opacity": 1,
+        "flipX": false,
+        "flipY": false,
+        "autoCover": true,
+        "transform": {
+          "cx": 512,
+          "cy": 400.5,
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0
+        },
+        "imgDataUrl": "__REF_UV_IMAGE__"
+      },
+      {
+        "id": "965240b6-fc9e-41b5-840c-70829000a35d",
+        "w": 1472,
+        "h": 1152,
+        "locked": false,
+        "opacity": 1,
+        "flipX": false,
+        "flipY": false,
+        "transform": {
+          "cx": 512,
+          "cy": 400.5,
+          "scaleX": 0.6953125,
+          "scaleY": 0.6953125,
+          "rotation": 0
+        },
+        "isAiGenerated": false,
+        "imgDataUrl": "./uv_assets/0.jpg"
+      }
+    ],
+    "uvImageDataUrl": null,
+    "designType": "other",
+    "maskCanvasWidth": 1024,
+    "maskCanvasHeight": 801,
+    "aiPrompt": "",
+    "globalFillColor": "#ffffff",
+    "globalFillEnabled": false,
+    "backgroundTransparent": false,
+    "maskUploadKind": "png",
+    "maskSourceImageDataUrl": "./uv_assets/1.png",
+    "savedAt": 1777258836889
+  },
+  "uv_assets": [
+    "./uv_assets/0.jpg",
+    "./uv_assets/1.png"
+  ]
+}

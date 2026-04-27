@@ -1,0 +1,14 @@
+{
+  "id": "b316d471-8c3f-4964-a5db-006e830d10b7",
+  "name": "香薰蜡烛",
+  "description": "",
+  "category_id": "9405b719-cd63-469b-adf2-021b1bfe9159",
+  "category_name": "香薰蜡烛玻璃杯",
+  "parent_category_id": "42cf72a4-276f-4e3d-8a11-9b6742322bbb",
+  "parent_category_name": "香薰蜡烛",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "120d3d63-e1d0-4b96-981f-a0c412f3343b",
+  "name": "饮料瓶",
+  "description": "",
+  "category_id": "1d43840e-f65c-44a6-9568-2b8a997e6337",
+  "category_name": "饮料瓶",
+  "parent_category_id": "2fbf5548-5680-42ab-82b8-7bda58bb2858",
+  "parent_category_name": "瓶类",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpeg"
+}

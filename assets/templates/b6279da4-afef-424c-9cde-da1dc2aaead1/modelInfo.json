@@ -1,0 +1,14 @@
+{
+  "id": "b6279da4-afef-424c-9cde-da1dc2aaead1",
+  "name": "porcelain",
+  "description": "",
+  "category_id": "6d3ebf3f-46e7-4baf-bf09-cb7ad34b16db",
+  "category_name": "通用瓷器",
+  "parent_category_id": "819cf7c6-6085-4751-bc75-c04e6ec73b97",
+  "parent_category_name": "瓷器",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

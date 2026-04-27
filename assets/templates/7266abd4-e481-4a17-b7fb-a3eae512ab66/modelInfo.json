@@ -1,0 +1,14 @@
+{
+  "id": "7266abd4-e481-4a17-b7fb-a3eae512ab66",
+  "name": "wine",
+  "description": "",
+  "category_id": "97df6e59-5e3d-47dc-a6bc-e54063b7b1c9",
+  "category_name": "通用瓶类",
+  "parent_category_id": "2fbf5548-5680-42ab-82b8-7bda58bb2858",
+  "parent_category_name": "瓶类",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.png"
+}

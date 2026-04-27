@@ -1,0 +1,14 @@
+{
+  "id": "828f5252-05b9-46d5-baf2-019f54955a91",
+  "name": "包装盒",
+  "description": "",
+  "category_id": "663c60f8-9825-49bb-9b7b-c2bacc154bd6",
+  "category_name": "通用包装盒",
+  "parent_category_id": "d5fa6843-3fd4-4544-abde-be3cf15c5e1e",
+  "parent_category_name": "包装盒",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpeg"
+}

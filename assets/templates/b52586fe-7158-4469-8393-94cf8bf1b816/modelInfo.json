@@ -1,0 +1,14 @@
+{
+  "id": "b52586fe-7158-4469-8393-94cf8bf1b816",
+  "name": "帽子",
+  "description": "",
+  "category_id": "ac239a91-9a75-4641-aee6-82089b072335",
+  "category_name": "帽子",
+  "parent_category_id": "a21089aa-ac25-4e17-a9be-50102d942ed0",
+  "parent_category_name": "服装",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

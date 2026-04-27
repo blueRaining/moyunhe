@@ -1,0 +1,14 @@
+{
+  "id": "d3caff19-1efd-4fe4-8d92-122aac6b4139",
+  "name": "亚克力_20260331",
+  "description": "",
+  "category_id": "17b7c51b-5a7c-4686-bca3-f4f3396c7751",
+  "category_name": "亚克力钥匙扣",
+  "parent_category_id": "7fb05a13-55b3-42ef-9c7b-67b0e5fe0f3b",
+  "parent_category_name": "亚克力",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

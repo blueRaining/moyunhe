@@ -1,0 +1,14 @@
+{
+  "id": "4afd020f-ebc5-48e8-b7c1-62db94c11821",
+  "name": "白色T恤衫",
+  "description": "",
+  "category_id": "04a4b4f9-2e98-40f7-8393-cc282485846d",
+  "category_name": "T恤",
+  "parent_category_id": "a21089aa-ac25-4e17-a9be-50102d942ed0",
+  "parent_category_name": "服装",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}

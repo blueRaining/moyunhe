@@ -1,0 +1,14 @@
+{
+  "id": "f6d7f4dc-a402-47d5-8531-f91eb55fd121",
+  "name": "冲锋衣",
+  "description": "",
+  "category_id": "f873e141-2c93-48e9-9282-1369177bcd31",
+  "category_name": "冲锋衣",
+  "parent_category_id": "a21089aa-ac25-4e17-a9be-50102d942ed0",
+  "parent_category_name": "服装",
+  "thumbnail": "./thumbnail.jpg",
+  "model": "./model.glb",
+  "aiconfig": "./aiconfig.json",
+  "environment": "./environment.env",
+  "backgroundUrl": "./background.jpg"
+}
